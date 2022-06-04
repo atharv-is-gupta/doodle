@@ -1,0 +1,16 @@
+body{
+    background-color: lime;
+}
+
+#scoreaa{
+    font-size: medium;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+#time{
+    font-size: medium;
+    font-weight: bold;
+    float: right;
+    margin-right: 25px;
+}
